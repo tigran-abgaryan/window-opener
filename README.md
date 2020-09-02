@@ -1,2 +1,1 @@
-# window-opener
-Automatic window opener
+# Automatic window opener
