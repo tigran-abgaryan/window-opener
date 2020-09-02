@@ -15,3 +15,5 @@ All these operations were realized by using ATtiny13 microcontroller and BJT H-b
 ![Indicator](indicator.png)
 
 D1 protects a microcontroller from transient switching spikes and parasitic HV impulses in a power line. D2-D5 — flyback diodes, C1-C3 — debouncing chip-capacitors (0805).
+
+![Overview](overview.jpg)
