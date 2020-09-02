@@ -51,4 +51,4 @@ DD1 ATtiny13(A)
 SF1 КЭМ-2 (KSK-1B85)\
 SF2 КЭМ-2 (KSK-1B85)\
 SB1 any tact/pushbutton switch\
-SB2 any tact/pushbutton switch\
+SB2 any tact/pushbutton switch
